@@ -1,0 +1,10 @@
+﻿global using MediatR;
+global using MediatR.Pipeline;
+global using MediatRPractice;
+global using MediatRPractice.Generics;
+global using MediatRPractice.Models;
+global using MediatRPractice.Requests;
+global using MediatRPractice.Notifications;
+global using MediatRPractice.StreamRequests;
+global using Microsoft.Extensions.DependencyInjection;
+global using System.Reflection;
